@@ -12,7 +12,7 @@
    - [Deleting Students](#deleting-students)
 4. [Project Structure](#project-structure)
 5. [Contributing](#contributing)
-6. [License](#license)
+6. [Demo Images].(#demo-images)
 
 ## Introduction
 The Student Face Recognition System is a Python application that allows users to manage student information and perform real-time face recognition. The application is built using Flask, OpenCV, and face_recognition library and provides features for adding, viewing, and deleting student records.
@@ -120,7 +120,9 @@ Contributions to this project are welcome. To contribute, follow these steps:
 3. Make your changes and test them.
 4. Create a pull request to the original repository.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Feel free to customize and expand this documentation to fit your project's specific needs. Documenting your project helps both users and potential contributors understand and engage with your work more effectively.
+## Demo Images
+![image](https://github.com/user-attachments/assets/ca288a37-b11d-49fc-ac2f-bea02668fad3)
+![image](https://github.com/user-attachments/assets/ffe7edfd-2f01-49c6-ae8c-9f7c0029d00c)
+![image](https://github.com/user-attachments/assets/294c0dfe-43f7-4a92-8ff7-54c4c47bf680)
+
